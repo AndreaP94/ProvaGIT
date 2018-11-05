@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Random;
 
 public class BlaBla {
@@ -6,6 +8,8 @@ public class BlaBla {
 		// TODO Auto-generated method stub
 
 		Random random = new Random();
+
+		List<String> list = new ArrayList<String>();
 	}
 
 }
